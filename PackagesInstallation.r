@@ -20,7 +20,7 @@ install.packages("FactoMineR", dep=TRUE)
 install.packages("conjoint", dep=TRUE)
 
 
-########## Transverses ##########
+########## friendship ##########
 install.packages("sas7bdat", dep=TRUE)
 install.packages("foreign", dep=TRUE)
 install.packages("RODBC", dep=TRUE)
